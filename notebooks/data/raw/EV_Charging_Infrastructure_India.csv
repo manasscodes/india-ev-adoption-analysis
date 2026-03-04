@@ -1,0 +1,601 @@
+station_id,city,state,charger_type,charger_capacity_kw,avg_daily_sessions,area_type
+CS_1,Ahmedabad,Maharashtra,Fast DC,120.0,,Urban
+CS_2,Delhi,Uttar Pradesh,Fast DC,120.0,,Rural
+CS_3,Chennai,Maharashtra,Fast DC,3.3,,Rural
+CS_4,Hyderabad,Maharashtra,Fast DC,120.0,39.0,Urban
+CS_5,Chennai,Gujarat,Slow AC,3.3,15.0,Urban
+CS_6,Bengaluru,Delhi,Fast DC,15.0,,Urban
+CS_7,Mumbai,Karnataka,Slow AC,50.0,,Rural
+CS_8,Chennai,Gujarat,Fast DC,30.0,10.0,Rural
+CS_9,Hyderabad,Telangana,Slow AC,50.0,,Urban
+CS_10,Ahmedabad,Delhi,Slow AC,3.3,,Urban
+CS_11,Bengaluru,Tamil Nadu,Slow AC,7.2,28.0,Urban
+CS_12,Ahmedabad,Karnataka,Fast DC,50.0,,Urban
+CS_13,Chennai,Tamil Nadu,Slow AC,120.0,,Rural
+CS_14,Bengaluru,Telangana,Fast DC,7.2,7.0,Urban
+CS_15,Bengaluru,Maharashtra,Fast DC,50.0,,Rural
+CS_16,Chennai,Tamil Nadu,Slow AC,7.2,,Urban
+CS_17,Ahmedabad,Gujarat,Slow AC,120.0,32.0,Urban
+CS_18,Delhi,Delhi,Slow AC,3.3,,Urban
+CS_19,Ahmedabad,Delhi,Slow AC,50.0,9.0,Urban
+CS_20,Hyderabad,Tamil Nadu,Slow AC,50.0,,Rural
+CS_21,Hyderabad,Telangana,Slow AC,120.0,,Urban
+CS_22,Chennai,Delhi,Slow AC,3.3,,Rural
+CS_23,Mumbai,Telangana,Slow AC,120.0,,Urban
+CS_24,Bengaluru,Telangana,Fast DC,50.0,,Rural
+CS_25,Bengaluru,Tamil Nadu,Fast DC,3.3,28.0,Urban
+CS_26,Mumbai,Delhi,Fast DC,3.3,,Rural
+CS_27,Pune,Delhi,Fast DC,120.0,,Urban
+CS_28,Hyderabad,Telangana,Slow AC,7.2,,Rural
+CS_29,Bengaluru,Tamil Nadu,Slow AC,30.0,38.0,Urban
+CS_30,Delhi,Delhi,Fast DC,15.0,,Rural
+CS_31,Delhi,Maharashtra,Fast DC,120.0,,Urban
+CS_32,Mumbai,Telangana,Slow AC,3.3,,Urban
+CS_33,Ahmedabad,Tamil Nadu,Fast DC,50.0,13.0,Urban
+CS_34,Pune,Tamil Nadu,Slow AC,7.2,,Rural
+CS_35,Chennai,Karnataka,Slow AC,30.0,,Rural
+CS_36,Ahmedabad,Uttar Pradesh,Fast DC,3.3,30.0,Urban
+CS_37,Delhi,Delhi,Fast DC,50.0,,Urban
+CS_38,Delhi,Karnataka,Slow AC,7.2,9.0,Rural
+CS_39,Mumbai,Maharashtra,Fast DC,3.3,,Urban
+CS_40,Chennai,Tamil Nadu,Fast DC,30.0,,Urban
+CS_41,Mumbai,Tamil Nadu,Slow AC,30.0,23.0,Rural
+CS_42,Ahmedabad,Telangana,Slow AC,7.2,17.0,Urban
+CS_43,Mumbai,Gujarat,Fast DC,120.0,,Urban
+CS_44,Hyderabad,Tamil Nadu,Fast DC,3.3,,Urban
+CS_45,Mumbai,Gujarat,Fast DC,120.0,20.0,Urban
+CS_46,Hyderabad,Delhi,Fast DC,50.0,10.0,Rural
+CS_47,Hyderabad,Gujarat,Slow AC,15.0,18.0,Urban
+CS_48,Bengaluru,Tamil Nadu,Fast DC,120.0,24.0,Urban
+CS_49,Pune,Maharashtra,Fast DC,30.0,,Rural
+CS_50,Delhi,Gujarat,Slow AC,7.2,,Urban
+CS_51,Bengaluru,Karnataka,Fast DC,30.0,39.0,Rural
+CS_52,Pune,Uttar Pradesh,Fast DC,120.0,40.0,Rural
+CS_53,Mumbai,Delhi,Slow AC,3.3,,Urban
+CS_54,Bengaluru,Gujarat,Fast DC,120.0,,Rural
+CS_55,Ahmedabad,Telangana,Slow AC,50.0,36.0,Urban
+CS_56,Mumbai,Uttar Pradesh,Slow AC,15.0,,Urban
+CS_57,Pune,Delhi,Slow AC,7.2,33.0,Rural
+CS_58,Mumbai,Maharashtra,Fast DC,120.0,,Urban
+CS_59,Hyderabad,Gujarat,Fast DC,30.0,,Urban
+CS_60,Bengaluru,Telangana,Fast DC,15.0,,Rural
+CS_61,Mumbai,Karnataka,Slow AC,50.0,,Urban
+CS_62,Pune,Telangana,Fast DC,30.0,,Rural
+CS_63,Bengaluru,Telangana,Slow AC,120.0,20.0,Urban
+CS_64,Pune,Uttar Pradesh,Fast DC,30.0,7.0,Urban
+CS_65,Delhi,Telangana,Slow AC,15.0,,Urban
+CS_66,Mumbai,Uttar Pradesh,Fast DC,30.0,26.0,Urban
+CS_67,Pune,Karnataka,Slow AC,120.0,37.0,Rural
+CS_68,Pune,Gujarat,Slow AC,3.3,12.0,Urban
+CS_69,Hyderabad,Karnataka,Fast DC,3.3,32.0,Rural
+CS_70,Pune,Karnataka,Slow AC,50.0,,Urban
+CS_71,Hyderabad,Delhi,Slow AC,3.3,,Rural
+CS_72,Pune,Gujarat,Fast DC,15.0,,Rural
+CS_73,Bengaluru,Gujarat,Slow AC,120.0,12.0,Rural
+CS_74,Bengaluru,Uttar Pradesh,Slow AC,15.0,30.0,Rural
+CS_75,Delhi,Delhi,Slow AC,120.0,,Rural
+CS_76,Hyderabad,Karnataka,Slow AC,50.0,5.0,Urban
+CS_77,Delhi,Tamil Nadu,Slow AC,30.0,33.0,Rural
+CS_78,Delhi,Gujarat,Slow AC,120.0,,Urban
+CS_79,Hyderabad,Uttar Pradesh,Slow AC,3.3,20.0,Urban
+CS_80,Pune,Delhi,Fast DC,3.3,,Urban
+CS_81,Hyderabad,Telangana,Fast DC,30.0,,Rural
+CS_82,Ahmedabad,Tamil Nadu,Slow AC,30.0,,Rural
+CS_83,Ahmedabad,Maharashtra,Fast DC,30.0,,Rural
+CS_84,Hyderabad,Tamil Nadu,Fast DC,50.0,,Urban
+CS_85,Delhi,Telangana,Slow AC,120.0,38.0,Urban
+CS_86,Hyderabad,Telangana,Slow AC,50.0,,Rural
+CS_87,Pune,Tamil Nadu,Slow AC,15.0,20.0,Rural
+CS_88,Chennai,Uttar Pradesh,Fast DC,15.0,,Rural
+CS_89,Bengaluru,Delhi,Slow AC,15.0,,Urban
+CS_90,Delhi,Delhi,Slow AC,120.0,,Urban
+CS_91,Chennai,Tamil Nadu,Slow AC,50.0,34.0,Urban
+CS_92,Delhi,Telangana,Slow AC,30.0,6.0,Urban
+CS_93,Mumbai,Karnataka,Slow AC,30.0,,Urban
+CS_94,Delhi,Karnataka,Slow AC,30.0,6.0,Urban
+CS_95,Ahmedabad,Uttar Pradesh,Slow AC,120.0,15.0,Urban
+CS_96,Hyderabad,Gujarat,Fast DC,30.0,,Rural
+CS_97,Chennai,Delhi,Slow AC,7.2,8.0,Urban
+CS_98,Bengaluru,Delhi,Slow AC,15.0,26.0,Urban
+CS_99,Pune,Telangana,Slow AC,15.0,10.0,Urban
+CS_100,Ahmedabad,Gujarat,Fast DC,15.0,,Rural
+CS_101,Mumbai,Telangana,Fast DC,7.2,,Rural
+CS_102,Delhi,Delhi,Fast DC,30.0,,Urban
+CS_103,Ahmedabad,Karnataka,Slow AC,7.2,,Urban
+CS_104,Mumbai,Gujarat,Fast DC,15.0,29.0,Rural
+CS_105,Delhi,Maharashtra,Fast DC,3.3,,Rural
+CS_106,Pune,Maharashtra,Slow AC,50.0,32.0,Urban
+CS_107,Hyderabad,Uttar Pradesh,Slow AC,3.3,31.0,Urban
+CS_108,Chennai,Karnataka,Slow AC,120.0,14.0,Urban
+CS_109,Ahmedabad,Gujarat,Slow AC,50.0,39.0,Urban
+CS_110,Chennai,Telangana,Slow AC,15.0,,Urban
+CS_111,Chennai,Delhi,Slow AC,50.0,29.0,Urban
+CS_112,Chennai,Telangana,Slow AC,7.2,,Urban
+CS_113,Pune,Karnataka,Slow AC,15.0,,Rural
+CS_114,Delhi,Maharashtra,Fast DC,120.0,31.0,Rural
+CS_115,Pune,Delhi,Slow AC,120.0,36.0,Urban
+CS_116,Mumbai,Karnataka,Fast DC,30.0,20.0,Rural
+CS_117,Hyderabad,Karnataka,Slow AC,50.0,38.0,Urban
+CS_118,Ahmedabad,Gujarat,Slow AC,15.0,34.0,Urban
+CS_119,Bengaluru,Delhi,Fast DC,120.0,17.0,Urban
+CS_120,Ahmedabad,Gujarat,Fast DC,7.2,18.0,Urban
+CS_121,Ahmedabad,Gujarat,Slow AC,3.3,17.0,Urban
+CS_122,Bengaluru,Delhi,Slow AC,3.3,,Urban
+CS_123,Mumbai,Maharashtra,Slow AC,120.0,13.0,Urban
+CS_124,Pune,Maharashtra,Slow AC,30.0,35.0,Urban
+CS_125,Delhi,Maharashtra,Slow AC,30.0,,Urban
+CS_126,Chennai,Maharashtra,Fast DC,7.2,14.0,Urban
+CS_127,Delhi,Maharashtra,Slow AC,50.0,19.0,Urban
+CS_128,Chennai,Karnataka,Slow AC,15.0,,Urban
+CS_129,Ahmedabad,Delhi,Slow AC,120.0,,Urban
+CS_130,Delhi,Gujarat,Fast DC,7.2,5.0,Urban
+CS_131,Ahmedabad,Gujarat,Slow AC,15.0,,Urban
+CS_132,Ahmedabad,Karnataka,Slow AC,3.3,19.0,Rural
+CS_133,Hyderabad,Uttar Pradesh,Fast DC,30.0,,Rural
+CS_134,Delhi,Karnataka,Fast DC,3.3,,Urban
+CS_135,Hyderabad,Uttar Pradesh,Slow AC,30.0,12.0,Rural
+CS_136,Bengaluru,Uttar Pradesh,Slow AC,15.0,37.0,Urban
+CS_137,Mumbai,Gujarat,Fast DC,30.0,25.0,Urban
+CS_138,Mumbai,Delhi,Fast DC,120.0,,Urban
+CS_139,Chennai,Gujarat,Slow AC,15.0,16.0,Rural
+CS_140,Pune,Tamil Nadu,Fast DC,30.0,27.0,Urban
+CS_141,Bengaluru,Uttar Pradesh,Fast DC,7.2,26.0,Rural
+CS_142,Chennai,Karnataka,Slow AC,50.0,7.0,Urban
+CS_143,Bengaluru,Karnataka,Slow AC,3.3,,Rural
+CS_144,Pune,Gujarat,Slow AC,30.0,,Rural
+CS_145,Bengaluru,Gujarat,Slow AC,120.0,,Urban
+CS_146,Bengaluru,Gujarat,Fast DC,15.0,33.0,Urban
+CS_147,Mumbai,Uttar Pradesh,Fast DC,120.0,15.0,Rural
+CS_148,Mumbai,Gujarat,Slow AC,3.3,,Urban
+CS_149,Mumbai,Uttar Pradesh,Fast DC,30.0,23.0,Urban
+CS_150,Pune,Tamil Nadu,Slow AC,7.2,,Urban
+CS_151,Delhi,Gujarat,Fast DC,3.3,22.0,Urban
+CS_152,Pune,Gujarat,Slow AC,3.3,23.0,Rural
+CS_153,Hyderabad,Uttar Pradesh,Slow AC,7.2,33.0,Urban
+CS_154,Bengaluru,Gujarat,Slow AC,30.0,,Rural
+CS_155,Delhi,Gujarat,Slow AC,7.2,,Urban
+CS_156,Ahmedabad,Tamil Nadu,Slow AC,30.0,14.0,Urban
+CS_157,Delhi,Gujarat,Slow AC,3.3,,Rural
+CS_158,Chennai,Maharashtra,Fast DC,30.0,,Urban
+CS_159,Pune,Karnataka,Slow AC,50.0,,Urban
+CS_160,Pune,Uttar Pradesh,Slow AC,15.0,,Rural
+CS_161,Mumbai,Delhi,Slow AC,7.2,10.0,Urban
+CS_162,Pune,Uttar Pradesh,Fast DC,30.0,15.0,Urban
+CS_163,Mumbai,Karnataka,Fast DC,15.0,27.0,Urban
+CS_164,Delhi,Delhi,Slow AC,50.0,,Urban
+CS_165,Mumbai,Gujarat,Slow AC,50.0,20.0,Rural
+CS_166,Delhi,Delhi,Slow AC,120.0,21.0,Urban
+CS_167,Ahmedabad,Maharashtra,Slow AC,15.0,,Urban
+CS_168,Chennai,Karnataka,Slow AC,120.0,32.0,Urban
+CS_169,Pune,Karnataka,Fast DC,30.0,,Urban
+CS_170,Chennai,Gujarat,Slow AC,50.0,23.0,Urban
+CS_171,Pune,Uttar Pradesh,Slow AC,15.0,,Rural
+CS_172,Ahmedabad,Tamil Nadu,Slow AC,7.2,,Rural
+CS_173,Delhi,Gujarat,Slow AC,120.0,,Rural
+CS_174,Ahmedabad,Maharashtra,Slow AC,30.0,7.0,Rural
+CS_175,Delhi,Maharashtra,Slow AC,15.0,,Urban
+CS_176,Delhi,Telangana,Slow AC,50.0,37.0,Urban
+CS_177,Bengaluru,Telangana,Slow AC,15.0,,Urban
+CS_178,Mumbai,Delhi,Fast DC,120.0,30.0,Urban
+CS_179,Pune,Tamil Nadu,Fast DC,15.0,,Urban
+CS_180,Bengaluru,Uttar Pradesh,Slow AC,50.0,29.0,Urban
+CS_181,Ahmedabad,Delhi,Slow AC,3.3,40.0,Rural
+CS_182,Delhi,Uttar Pradesh,Fast DC,120.0,34.0,Rural
+CS_183,Chennai,Maharashtra,Fast DC,3.3,7.0,Urban
+CS_184,Mumbai,Maharashtra,Fast DC,50.0,13.0,Urban
+CS_185,Bengaluru,Uttar Pradesh,Slow AC,50.0,14.0,Rural
+CS_186,Mumbai,Telangana,Slow AC,50.0,31.0,Urban
+CS_187,Ahmedabad,Karnataka,Fast DC,30.0,,Urban
+CS_188,Mumbai,Uttar Pradesh,Slow AC,50.0,,Urban
+CS_189,Bengaluru,Delhi,Fast DC,30.0,,Rural
+CS_190,Ahmedabad,Gujarat,Fast DC,3.3,,Urban
+CS_191,Pune,Gujarat,Fast DC,3.3,,Rural
+CS_192,Delhi,Telangana,Fast DC,15.0,,Urban
+CS_193,Pune,Delhi,Fast DC,50.0,,Urban
+CS_194,Ahmedabad,Telangana,Fast DC,7.2,5.0,Urban
+CS_195,Hyderabad,Karnataka,Fast DC,7.2,,Urban
+CS_196,Ahmedabad,Tamil Nadu,Fast DC,120.0,9.0,Urban
+CS_197,Pune,Karnataka,Fast DC,30.0,,Rural
+CS_198,Mumbai,Uttar Pradesh,Slow AC,30.0,,Urban
+CS_199,Pune,Tamil Nadu,Slow AC,120.0,11.0,Rural
+CS_200,Chennai,Maharashtra,Fast DC,15.0,,Urban
+CS_201,Bengaluru,Gujarat,Slow AC,30.0,38.0,Urban
+CS_202,Hyderabad,Gujarat,Slow AC,3.3,,Urban
+CS_203,Chennai,Delhi,Slow AC,15.0,34.0,Urban
+CS_204,Ahmedabad,Maharashtra,Slow AC,30.0,25.0,Urban
+CS_205,Delhi,Uttar Pradesh,Slow AC,3.3,,Urban
+CS_206,Chennai,Maharashtra,Slow AC,7.2,,Rural
+CS_207,Hyderabad,Gujarat,Slow AC,120.0,12.0,Urban
+CS_208,Pune,Uttar Pradesh,Slow AC,120.0,8.0,Rural
+CS_209,Bengaluru,Karnataka,Fast DC,50.0,,Urban
+CS_210,Ahmedabad,Tamil Nadu,Fast DC,3.3,27.0,Urban
+CS_211,Pune,Karnataka,Fast DC,30.0,,Rural
+CS_212,Ahmedabad,Telangana,Slow AC,3.3,16.0,Rural
+CS_213,Pune,Karnataka,Slow AC,15.0,,Urban
+CS_214,Hyderabad,Uttar Pradesh,Slow AC,3.3,,Urban
+CS_215,Ahmedabad,Gujarat,Fast DC,30.0,31.0,Urban
+CS_216,Delhi,Karnataka,Slow AC,120.0,,Urban
+CS_217,Delhi,Delhi,Fast DC,120.0,10.0,Urban
+CS_218,Ahmedabad,Tamil Nadu,Slow AC,50.0,33.0,Urban
+CS_219,Delhi,Telangana,Fast DC,15.0,,Urban
+CS_220,Ahmedabad,Uttar Pradesh,Slow AC,50.0,,Urban
+CS_221,Chennai,Gujarat,Fast DC,3.3,18.0,Urban
+CS_222,Pune,Delhi,Slow AC,15.0,,Urban
+CS_223,Chennai,Uttar Pradesh,Slow AC,7.2,13.0,Rural
+CS_224,Ahmedabad,Delhi,Slow AC,3.3,,Urban
+CS_225,Mumbai,Tamil Nadu,Fast DC,15.0,32.0,Rural
+CS_226,Ahmedabad,Tamil Nadu,Slow AC,3.3,,Urban
+CS_227,Delhi,Telangana,Slow AC,120.0,,Urban
+CS_228,Pune,Maharashtra,Fast DC,30.0,,Urban
+CS_229,Pune,Karnataka,Slow AC,7.2,,Urban
+CS_230,Hyderabad,Uttar Pradesh,Fast DC,50.0,,Urban
+CS_231,Bengaluru,Uttar Pradesh,Fast DC,7.2,,Urban
+CS_232,Delhi,Delhi,Fast DC,120.0,,Rural
+CS_233,Chennai,Tamil Nadu,Slow AC,120.0,25.0,Urban
+CS_234,Chennai,Maharashtra,Slow AC,30.0,24.0,Rural
+CS_235,Mumbai,Karnataka,Fast DC,15.0,34.0,Urban
+CS_236,Mumbai,Karnataka,Slow AC,3.3,10.0,Urban
+CS_237,Hyderabad,Gujarat,Fast DC,30.0,17.0,Rural
+CS_238,Chennai,Gujarat,Fast DC,3.3,,Urban
+CS_239,Ahmedabad,Maharashtra,Fast DC,3.3,20.0,Urban
+CS_240,Hyderabad,Gujarat,Fast DC,15.0,28.0,Urban
+CS_241,Chennai,Telangana,Slow AC,120.0,8.0,Urban
+CS_242,Bengaluru,Maharashtra,Slow AC,15.0,,Urban
+CS_243,Mumbai,Gujarat,Fast DC,15.0,24.0,Urban
+CS_244,Hyderabad,Uttar Pradesh,Fast DC,15.0,40.0,Rural
+CS_245,Pune,Karnataka,Fast DC,120.0,,Rural
+CS_246,Ahmedabad,Tamil Nadu,Slow AC,3.3,28.0,Urban
+CS_247,Delhi,Karnataka,Slow AC,7.2,,Urban
+CS_248,Mumbai,Karnataka,Fast DC,50.0,,Rural
+CS_249,Bengaluru,Telangana,Fast DC,50.0,,Urban
+CS_250,Delhi,Telangana,Fast DC,120.0,,Urban
+CS_251,Bengaluru,Uttar Pradesh,Fast DC,30.0,23.0,Urban
+CS_252,Hyderabad,Delhi,Slow AC,30.0,17.0,Rural
+CS_253,Hyderabad,Tamil Nadu,Slow AC,15.0,29.0,Urban
+CS_254,Pune,Delhi,Fast DC,15.0,8.0,Urban
+CS_255,Hyderabad,Maharashtra,Fast DC,15.0,,Urban
+CS_256,Chennai,Gujarat,Fast DC,30.0,,Urban
+CS_257,Bengaluru,Maharashtra,Slow AC,3.3,30.0,Urban
+CS_258,Chennai,Maharashtra,Slow AC,7.2,6.0,Urban
+CS_259,Pune,Uttar Pradesh,Slow AC,7.2,,Urban
+CS_260,Pune,Tamil Nadu,Fast DC,120.0,35.0,Rural
+CS_261,Mumbai,Maharashtra,Fast DC,15.0,,Rural
+CS_262,Ahmedabad,Gujarat,Slow AC,3.3,,Urban
+CS_263,Mumbai,Maharashtra,Fast DC,30.0,,Urban
+CS_264,Pune,Tamil Nadu,Fast DC,120.0,,Rural
+CS_265,Delhi,Karnataka,Slow AC,3.3,,Rural
+CS_266,Chennai,Delhi,Fast DC,50.0,,Rural
+CS_267,Hyderabad,Gujarat,Fast DC,30.0,,Rural
+CS_268,Chennai,Karnataka,Slow AC,120.0,6.0,Urban
+CS_269,Bengaluru,Delhi,Fast DC,50.0,,Urban
+CS_270,Bengaluru,Gujarat,Slow AC,120.0,16.0,Rural
+CS_271,Chennai,Uttar Pradesh,Fast DC,7.2,9.0,Urban
+CS_272,Bengaluru,Delhi,Fast DC,7.2,7.0,Urban
+CS_273,Hyderabad,Tamil Nadu,Slow AC,15.0,,Urban
+CS_274,Bengaluru,Telangana,Fast DC,120.0,26.0,Urban
+CS_275,Pune,Karnataka,Slow AC,30.0,33.0,Urban
+CS_276,Delhi,Tamil Nadu,Slow AC,15.0,38.0,Urban
+CS_277,Ahmedabad,Tamil Nadu,Fast DC,30.0,16.0,Urban
+CS_278,Mumbai,Maharashtra,Slow AC,120.0,23.0,Urban
+CS_279,Hyderabad,Uttar Pradesh,Slow AC,7.2,33.0,Urban
+CS_280,Mumbai,Uttar Pradesh,Slow AC,50.0,32.0,Rural
+CS_281,Pune,Maharashtra,Fast DC,120.0,30.0,Rural
+CS_282,Pune,Uttar Pradesh,Fast DC,3.3,14.0,Urban
+CS_283,Delhi,Maharashtra,Fast DC,120.0,28.0,Urban
+CS_284,Hyderabad,Maharashtra,Fast DC,120.0,33.0,Urban
+CS_285,Chennai,Telangana,Fast DC,50.0,13.0,Urban
+CS_286,Bengaluru,Uttar Pradesh,Slow AC,7.2,,Rural
+CS_287,Delhi,Tamil Nadu,Slow AC,50.0,12.0,Urban
+CS_288,Ahmedabad,Tamil Nadu,Fast DC,50.0,23.0,Urban
+CS_289,Mumbai,Delhi,Fast DC,30.0,16.0,Urban
+CS_290,Pune,Uttar Pradesh,Slow AC,120.0,,Rural
+CS_291,Hyderabad,Karnataka,Slow AC,7.2,16.0,Rural
+CS_292,Delhi,Maharashtra,Fast DC,7.2,20.0,Urban
+CS_293,Bengaluru,Gujarat,Slow AC,30.0,,Rural
+CS_294,Mumbai,Maharashtra,Slow AC,30.0,35.0,Urban
+CS_295,Pune,Gujarat,Fast DC,7.2,,Urban
+CS_296,Chennai,Uttar Pradesh,Slow AC,7.2,,Urban
+CS_297,Chennai,Gujarat,Fast DC,3.3,,Urban
+CS_298,Delhi,Delhi,Slow AC,120.0,19.0,Rural
+CS_299,Bengaluru,Telangana,Fast DC,15.0,17.0,Urban
+CS_300,Ahmedabad,Karnataka,Fast DC,50.0,,Urban
+CS_301,Ahmedabad,Gujarat,Slow AC,50.0,,Urban
+CS_302,Mumbai,Uttar Pradesh,Slow AC,120.0,18.0,Rural
+CS_303,Ahmedabad,Maharashtra,Slow AC,120.0,39.0,Rural
+CS_304,Bengaluru,Tamil Nadu,Fast DC,120.0,30.0,Urban
+CS_305,Mumbai,Uttar Pradesh,Fast DC,7.2,33.0,Urban
+CS_306,Chennai,Delhi,Slow AC,50.0,14.0,Rural
+CS_307,Bengaluru,Uttar Pradesh,Slow AC,30.0,13.0,Rural
+CS_308,Hyderabad,Maharashtra,Slow AC,7.2,,Urban
+CS_309,Chennai,Delhi,Fast DC,3.3,8.0,Urban
+CS_310,Pune,Gujarat,Slow AC,7.2,15.0,Rural
+CS_311,Ahmedabad,Karnataka,Fast DC,7.2,36.0,Urban
+CS_312,Bengaluru,Tamil Nadu,Fast DC,3.3,30.0,Urban
+CS_313,Delhi,Gujarat,Slow AC,3.3,8.0,Urban
+CS_314,Hyderabad,Telangana,Slow AC,15.0,,Urban
+CS_315,Chennai,Delhi,Slow AC,120.0,28.0,Urban
+CS_316,Mumbai,Tamil Nadu,Fast DC,50.0,,Urban
+CS_317,Hyderabad,Karnataka,Fast DC,30.0,37.0,Rural
+CS_318,Bengaluru,Telangana,Fast DC,7.2,11.0,Urban
+CS_319,Pune,Karnataka,Slow AC,7.2,17.0,Rural
+CS_320,Mumbai,Maharashtra,Fast DC,7.2,26.0,Rural
+CS_321,Chennai,Delhi,Fast DC,15.0,,Urban
+CS_322,Hyderabad,Uttar Pradesh,Slow AC,50.0,26.0,Rural
+CS_323,Hyderabad,Karnataka,Slow AC,3.3,28.0,Rural
+CS_324,Mumbai,Tamil Nadu,Slow AC,120.0,6.0,Urban
+CS_325,Ahmedabad,Telangana,Fast DC,120.0,8.0,Urban
+CS_326,Hyderabad,Uttar Pradesh,Slow AC,7.2,,Rural
+CS_327,Ahmedabad,Maharashtra,Fast DC,3.3,33.0,Urban
+CS_328,Delhi,Tamil Nadu,Fast DC,30.0,37.0,Rural
+CS_329,Ahmedabad,Maharashtra,Fast DC,50.0,18.0,Rural
+CS_330,Chennai,Gujarat,Slow AC,15.0,16.0,Rural
+CS_331,Bengaluru,Gujarat,Slow AC,120.0,21.0,Urban
+CS_332,Delhi,Karnataka,Slow AC,7.2,24.0,Rural
+CS_333,Delhi,Uttar Pradesh,Slow AC,15.0,35.0,Rural
+CS_334,Pune,Uttar Pradesh,Slow AC,15.0,12.0,Urban
+CS_335,Pune,Karnataka,Fast DC,15.0,7.0,Rural
+CS_336,Mumbai,Karnataka,Slow AC,120.0,21.0,Urban
+CS_337,Delhi,Telangana,Slow AC,50.0,,Urban
+CS_338,Hyderabad,Uttar Pradesh,Fast DC,7.2,,Rural
+CS_339,Delhi,Maharashtra,Fast DC,30.0,26.0,Urban
+CS_340,Ahmedabad,Telangana,Fast DC,3.3,,Urban
+CS_341,Ahmedabad,Tamil Nadu,Slow AC,120.0,17.0,Urban
+CS_342,Bengaluru,Uttar Pradesh,Fast DC,3.3,,Urban
+CS_343,Chennai,Telangana,Fast DC,3.3,30.0,Urban
+CS_344,Ahmedabad,Telangana,Slow AC,3.3,5.0,Rural
+CS_345,Hyderabad,Maharashtra,Slow AC,15.0,34.0,Urban
+CS_346,Pune,Gujarat,Slow AC,15.0,,Urban
+CS_347,Delhi,Uttar Pradesh,Slow AC,120.0,,Urban
+CS_348,Ahmedabad,Karnataka,Slow AC,50.0,,Rural
+CS_349,Pune,Uttar Pradesh,Slow AC,30.0,37.0,Urban
+CS_350,Chennai,Uttar Pradesh,Fast DC,7.2,13.0,Urban
+CS_351,Delhi,Maharashtra,Slow AC,30.0,20.0,Urban
+CS_352,Bengaluru,Karnataka,Fast DC,15.0,,Urban
+CS_353,Ahmedabad,Maharashtra,Slow AC,15.0,15.0,Rural
+CS_354,Hyderabad,Uttar Pradesh,Slow AC,120.0,12.0,Urban
+CS_355,Hyderabad,Delhi,Fast DC,7.2,,Urban
+CS_356,Ahmedabad,Gujarat,Slow AC,30.0,40.0,Rural
+CS_357,Pune,Uttar Pradesh,Fast DC,7.2,10.0,Rural
+CS_358,Ahmedabad,Karnataka,Fast DC,50.0,,Rural
+CS_359,Hyderabad,Delhi,Fast DC,7.2,25.0,Urban
+CS_360,Ahmedabad,Delhi,Slow AC,3.3,37.0,Urban
+CS_361,Chennai,Delhi,Slow AC,30.0,8.0,Rural
+CS_362,Pune,Karnataka,Fast DC,30.0,,Rural
+CS_363,Delhi,Gujarat,Fast DC,3.3,32.0,Rural
+CS_364,Mumbai,Gujarat,Fast DC,3.3,,Urban
+CS_365,Chennai,Delhi,Fast DC,120.0,31.0,Urban
+CS_366,Chennai,Telangana,Slow AC,30.0,,Rural
+CS_367,Pune,Karnataka,Fast DC,7.2,39.0,Rural
+CS_368,Delhi,Uttar Pradesh,Fast DC,3.3,6.0,Urban
+CS_369,Ahmedabad,Uttar Pradesh,Slow AC,50.0,,Urban
+CS_370,Chennai,Karnataka,Fast DC,15.0,,Urban
+CS_371,Pune,Uttar Pradesh,Slow AC,50.0,,Urban
+CS_372,Mumbai,Maharashtra,Fast DC,30.0,,Rural
+CS_373,Mumbai,Tamil Nadu,Slow AC,7.2,,Urban
+CS_374,Delhi,Gujarat,Slow AC,7.2,25.0,Urban
+CS_375,Bengaluru,Delhi,Fast DC,30.0,24.0,Urban
+CS_376,Hyderabad,Gujarat,Fast DC,120.0,32.0,Urban
+CS_377,Bengaluru,Uttar Pradesh,Slow AC,50.0,25.0,Urban
+CS_378,Delhi,Karnataka,Slow AC,7.2,39.0,Urban
+CS_379,Pune,Delhi,Slow AC,120.0,14.0,Urban
+CS_380,Hyderabad,Tamil Nadu,Slow AC,50.0,,Urban
+CS_381,Delhi,Karnataka,Fast DC,15.0,10.0,Urban
+CS_382,Mumbai,Gujarat,Fast DC,3.3,22.0,Rural
+CS_383,Hyderabad,Gujarat,Fast DC,3.3,,Urban
+CS_384,Delhi,Telangana,Slow AC,15.0,,Urban
+CS_385,Ahmedabad,Maharashtra,Slow AC,7.2,18.0,Urban
+CS_386,Hyderabad,Karnataka,Slow AC,30.0,34.0,Urban
+CS_387,Bengaluru,Karnataka,Slow AC,30.0,11.0,Urban
+CS_388,Delhi,Karnataka,Slow AC,30.0,,Rural
+CS_389,Delhi,Maharashtra,Slow AC,50.0,31.0,Urban
+CS_390,Delhi,Karnataka,Fast DC,30.0,20.0,Rural
+CS_391,Ahmedabad,Uttar Pradesh,Slow AC,15.0,36.0,Urban
+CS_392,Delhi,Uttar Pradesh,Slow AC,7.2,13.0,Urban
+CS_393,Hyderabad,Uttar Pradesh,Fast DC,50.0,,Rural
+CS_394,Mumbai,Telangana,Fast DC,30.0,,Urban
+CS_395,Ahmedabad,Delhi,Fast DC,7.2,37.0,Urban
+CS_396,Mumbai,Gujarat,Slow AC,120.0,,Urban
+CS_397,Hyderabad,Gujarat,Slow AC,3.3,6.0,Rural
+CS_398,Bengaluru,Maharashtra,Slow AC,7.2,,Rural
+CS_399,Delhi,Delhi,Fast DC,50.0,38.0,Urban
+CS_400,Bengaluru,Telangana,Slow AC,3.3,28.0,Urban
+CS_401,Hyderabad,Delhi,Fast DC,15.0,,Urban
+CS_402,Chennai,Tamil Nadu,Slow AC,50.0,,Rural
+CS_403,Mumbai,Uttar Pradesh,Fast DC,3.3,36.0,Rural
+CS_404,Pune,Karnataka,Fast DC,50.0,,Urban
+CS_405,Pune,Uttar Pradesh,Slow AC,15.0,,Rural
+CS_406,Bengaluru,Gujarat,Fast DC,7.2,,Urban
+CS_407,Hyderabad,Delhi,Slow AC,3.3,,Rural
+CS_408,Delhi,Gujarat,Slow AC,120.0,39.0,Urban
+CS_409,Pune,Uttar Pradesh,Fast DC,120.0,10.0,Urban
+CS_410,Mumbai,Tamil Nadu,Fast DC,3.3,26.0,Urban
+CS_411,Mumbai,Uttar Pradesh,Slow AC,30.0,,Urban
+CS_412,Hyderabad,Tamil Nadu,Slow AC,7.2,,Rural
+CS_413,Bengaluru,Telangana,Fast DC,120.0,,Urban
+CS_414,Delhi,Tamil Nadu,Fast DC,120.0,29.0,Urban
+CS_415,Mumbai,Maharashtra,Fast DC,15.0,33.0,Urban
+CS_416,Mumbai,Delhi,Fast DC,7.2,32.0,Rural
+CS_417,Hyderabad,Gujarat,Slow AC,3.3,,Urban
+CS_418,Hyderabad,Maharashtra,Slow AC,30.0,5.0,Urban
+CS_419,Chennai,Telangana,Fast DC,120.0,,Rural
+CS_420,Hyderabad,Delhi,Slow AC,7.2,13.0,Urban
+CS_421,Bengaluru,Tamil Nadu,Fast DC,3.3,15.0,Urban
+CS_422,Chennai,Karnataka,Slow AC,3.3,28.0,Urban
+CS_423,Ahmedabad,Uttar Pradesh,Slow AC,50.0,17.0,Urban
+CS_424,Delhi,Karnataka,Fast DC,30.0,26.0,Urban
+CS_425,Chennai,Karnataka,Slow AC,120.0,13.0,Urban
+CS_426,Hyderabad,Uttar Pradesh,Fast DC,30.0,,Urban
+CS_427,Bengaluru,Karnataka,Slow AC,50.0,20.0,Urban
+CS_428,Bengaluru,Telangana,Slow AC,15.0,,Rural
+CS_429,Hyderabad,Delhi,Fast DC,120.0,,Urban
+CS_430,Pune,Karnataka,Fast DC,30.0,,Rural
+CS_431,Bengaluru,Delhi,Slow AC,120.0,14.0,Urban
+CS_432,Mumbai,Tamil Nadu,Slow AC,50.0,30.0,Rural
+CS_433,Mumbai,Telangana,Slow AC,120.0,,Urban
+CS_434,Pune,Delhi,Slow AC,7.2,7.0,Urban
+CS_435,Pune,Tamil Nadu,Fast DC,3.3,11.0,Urban
+CS_436,Hyderabad,Uttar Pradesh,Fast DC,30.0,28.0,Urban
+CS_437,Pune,Uttar Pradesh,Fast DC,15.0,6.0,Urban
+CS_438,Bengaluru,Tamil Nadu,Fast DC,3.3,14.0,Urban
+CS_439,Bengaluru,Tamil Nadu,Fast DC,50.0,35.0,Urban
+CS_440,Mumbai,Tamil Nadu,Slow AC,15.0,9.0,Urban
+CS_441,Pune,Uttar Pradesh,Fast DC,3.3,,Rural
+CS_442,Pune,Delhi,Fast DC,50.0,,Urban
+CS_443,Hyderabad,Tamil Nadu,Slow AC,7.2,,Urban
+CS_444,Ahmedabad,Uttar Pradesh,Slow AC,30.0,,Urban
+CS_445,Hyderabad,Tamil Nadu,Slow AC,3.3,,Urban
+CS_446,Pune,Uttar Pradesh,Fast DC,50.0,,Urban
+CS_447,Bengaluru,Delhi,Slow AC,3.3,21.0,Rural
+CS_448,Ahmedabad,Karnataka,Slow AC,50.0,,Urban
+CS_449,Bengaluru,Telangana,Slow AC,50.0,16.0,Rural
+CS_450,Hyderabad,Maharashtra,Fast DC,15.0,,Urban
+CS_451,Mumbai,Delhi,Slow AC,120.0,14.0,Urban
+CS_452,Hyderabad,Delhi,Slow AC,30.0,16.0,Rural
+CS_453,Hyderabad,Uttar Pradesh,Fast DC,50.0,15.0,Urban
+CS_454,Delhi,Delhi,Slow AC,30.0,8.0,Urban
+CS_455,Chennai,Delhi,Fast DC,30.0,40.0,Urban
+CS_456,Ahmedabad,Tamil Nadu,Slow AC,120.0,33.0,Urban
+CS_457,Mumbai,Gujarat,Fast DC,7.2,,Urban
+CS_458,Delhi,Gujarat,Slow AC,7.2,34.0,Rural
+CS_459,Hyderabad,Maharashtra,Fast DC,15.0,39.0,Rural
+CS_460,Pune,Telangana,Fast DC,120.0,,Urban
+CS_461,Mumbai,Uttar Pradesh,Fast DC,15.0,7.0,Urban
+CS_462,Bengaluru,Telangana,Fast DC,30.0,,Urban
+CS_463,Pune,Uttar Pradesh,Slow AC,120.0,,Rural
+CS_464,Delhi,Telangana,Fast DC,7.2,8.0,Rural
+CS_465,Bengaluru,Gujarat,Fast DC,15.0,23.0,Rural
+CS_466,Bengaluru,Telangana,Fast DC,7.2,,Urban
+CS_467,Pune,Uttar Pradesh,Fast DC,120.0,,Urban
+CS_468,Ahmedabad,Karnataka,Fast DC,120.0,30.0,Urban
+CS_469,Hyderabad,Uttar Pradesh,Slow AC,120.0,31.0,Urban
+CS_470,Mumbai,Uttar Pradesh,Fast DC,30.0,37.0,Rural
+CS_471,Bengaluru,Tamil Nadu,Slow AC,15.0,,Rural
+CS_472,Chennai,Uttar Pradesh,Slow AC,3.3,39.0,Urban
+CS_473,Chennai,Telangana,Fast DC,30.0,22.0,Urban
+CS_474,Bengaluru,Gujarat,Fast DC,50.0,36.0,Rural
+CS_475,Pune,Maharashtra,Fast DC,3.3,,Urban
+CS_476,Pune,Delhi,Slow AC,30.0,5.0,Urban
+CS_477,Ahmedabad,Delhi,Slow AC,7.2,,Rural
+CS_478,Bengaluru,Karnataka,Fast DC,15.0,,Urban
+CS_479,Ahmedabad,Karnataka,Fast DC,30.0,,Urban
+CS_480,Delhi,Tamil Nadu,Fast DC,7.2,19.0,Urban
+CS_481,Mumbai,Uttar Pradesh,Slow AC,3.3,,Urban
+CS_482,Mumbai,Delhi,Slow AC,3.3,,Urban
+CS_483,Bengaluru,Karnataka,Fast DC,30.0,,Urban
+CS_484,Hyderabad,Gujarat,Fast DC,50.0,15.0,Urban
+CS_485,Ahmedabad,Delhi,Fast DC,30.0,,Urban
+CS_486,Mumbai,Delhi,Fast DC,50.0,29.0,Urban
+CS_487,Bengaluru,Telangana,Fast DC,7.2,,Urban
+CS_488,Hyderabad,Gujarat,Slow AC,120.0,6.0,Urban
+CS_489,Hyderabad,Gujarat,Fast DC,120.0,30.0,Rural
+CS_490,Mumbai,Telangana,Fast DC,30.0,,Urban
+CS_491,Chennai,Uttar Pradesh,Fast DC,50.0,5.0,Urban
+CS_492,Delhi,Tamil Nadu,Slow AC,15.0,,Urban
+CS_493,Pune,Maharashtra,Fast DC,50.0,,Urban
+CS_494,Delhi,Maharashtra,Fast DC,30.0,37.0,Rural
+CS_495,Ahmedabad,Gujarat,Slow AC,30.0,,Rural
+CS_496,Hyderabad,Gujarat,Fast DC,15.0,10.0,Urban
+CS_497,Hyderabad,Delhi,Fast DC,50.0,25.0,Rural
+CS_498,Ahmedabad,Telangana,Fast DC,15.0,,Urban
+CS_499,Delhi,Maharashtra,Slow AC,3.3,,Urban
+CS_500,Ahmedabad,Uttar Pradesh,Fast DC,3.3,,Rural
+CS_501,Mumbai,Delhi,Slow AC,15.0,38.0,Urban
+CS_502,Bengaluru,Delhi,Slow AC,120.0,,Urban
+CS_503,Pune,Tamil Nadu,Slow AC,50.0,9.0,Rural
+CS_504,Hyderabad,Uttar Pradesh,Fast DC,30.0,34.0,Urban
+CS_505,Chennai,Telangana,Fast DC,15.0,15.0,Urban
+CS_506,Hyderabad,Uttar Pradesh,Fast DC,7.2,,Urban
+CS_507,Pune,Telangana,Fast DC,7.2,7.0,Urban
+CS_508,Chennai,Delhi,Fast DC,3.3,40.0,Urban
+CS_509,Bengaluru,Delhi,Slow AC,120.0,25.0,Urban
+CS_510,Hyderabad,Karnataka,Fast DC,50.0,,Urban
+CS_511,Pune,Gujarat,Fast DC,30.0,9.0,Urban
+CS_512,Pune,Telangana,Slow AC,15.0,10.0,Urban
+CS_513,Bengaluru,Delhi,Slow AC,50.0,,Urban
+CS_514,Bengaluru,Gujarat,Slow AC,7.2,,Urban
+CS_515,Mumbai,Tamil Nadu,Fast DC,7.2,39.0,Rural
+CS_516,Pune,Uttar Pradesh,Fast DC,15.0,5.0,Rural
+CS_517,Ahmedabad,Karnataka,Fast DC,7.2,,Urban
+CS_518,Chennai,Maharashtra,Fast DC,120.0,,Urban
+CS_519,Delhi,Telangana,Slow AC,120.0,28.0,Rural
+CS_520,Mumbai,Gujarat,Fast DC,50.0,13.0,Urban
+CS_521,Hyderabad,Gujarat,Fast DC,30.0,,Urban
+CS_522,Bengaluru,Telangana,Slow AC,30.0,25.0,Urban
+CS_523,Bengaluru,Delhi,Fast DC,7.2,,Urban
+CS_524,Mumbai,Delhi,Slow AC,30.0,25.0,Urban
+CS_525,Hyderabad,Karnataka,Fast DC,30.0,24.0,Urban
+CS_526,Pune,Maharashtra,Fast DC,7.2,,Urban
+CS_527,Pune,Telangana,Slow AC,7.2,,Urban
+CS_528,Chennai,Gujarat,Fast DC,120.0,24.0,Urban
+CS_529,Mumbai,Tamil Nadu,Slow AC,50.0,,Urban
+CS_530,Chennai,Maharashtra,Fast DC,3.3,,Urban
+CS_531,Delhi,Delhi,Slow AC,15.0,10.0,Urban
+CS_532,Mumbai,Maharashtra,Fast DC,120.0,,Urban
+CS_533,Pune,Telangana,Slow AC,3.3,7.0,Urban
+CS_534,Delhi,Gujarat,Slow AC,120.0,30.0,Urban
+CS_535,Chennai,Uttar Pradesh,Slow AC,7.2,,Urban
+CS_536,Bengaluru,Karnataka,Slow AC,7.2,,Rural
+CS_537,Bengaluru,Tamil Nadu,Slow AC,50.0,,Urban
+CS_538,Bengaluru,Tamil Nadu,Fast DC,30.0,,Rural
+CS_539,Pune,Gujarat,Fast DC,30.0,27.0,Rural
+CS_540,Pune,Tamil Nadu,Slow AC,50.0,37.0,Urban
+CS_541,Bengaluru,Delhi,Fast DC,15.0,,Urban
+CS_542,Mumbai,Telangana,Slow AC,50.0,,Urban
+CS_543,Mumbai,Delhi,Fast DC,15.0,,Urban
+CS_544,Hyderabad,Telangana,Slow AC,15.0,,Urban
+CS_545,Hyderabad,Karnataka,Slow AC,50.0,6.0,Rural
+CS_546,Hyderabad,Delhi,Fast DC,30.0,39.0,Urban
+CS_547,Chennai,Maharashtra,Fast DC,3.3,,Urban
+CS_548,Hyderabad,Tamil Nadu,Fast DC,15.0,,Urban
+CS_549,Ahmedabad,Delhi,Slow AC,3.3,,Rural
+CS_550,Ahmedabad,Delhi,Fast DC,50.0,,Urban
+CS_551,Ahmedabad,Uttar Pradesh,Slow AC,50.0,11.0,Urban
+CS_552,Bengaluru,Delhi,Fast DC,120.0,32.0,Rural
+CS_553,Bengaluru,Delhi,Slow AC,7.2,16.0,Urban
+CS_554,Ahmedabad,Uttar Pradesh,Slow AC,7.2,,Rural
+CS_555,Hyderabad,Tamil Nadu,Fast DC,7.2,,Rural
+CS_556,Hyderabad,Maharashtra,Slow AC,7.2,,Urban
+CS_557,Bengaluru,Karnataka,Fast DC,120.0,10.0,Urban
+CS_558,Mumbai,Karnataka,Fast DC,7.2,9.0,Urban
+CS_559,Pune,Maharashtra,Fast DC,3.3,29.0,Rural
+CS_560,Chennai,Delhi,Slow AC,30.0,29.0,Rural
+CS_561,Chennai,Maharashtra,Slow AC,50.0,,Urban
+CS_562,Mumbai,Telangana,Fast DC,15.0,6.0,Urban
+CS_563,Mumbai,Maharashtra,Slow AC,7.2,,Rural
+CS_564,Mumbai,Gujarat,Fast DC,15.0,,Urban
+CS_565,Ahmedabad,Delhi,Slow AC,7.2,,Urban
+CS_566,Delhi,Delhi,Slow AC,120.0,40.0,Rural
+CS_567,Bengaluru,Karnataka,Fast DC,3.3,8.0,Rural
+CS_568,Hyderabad,Telangana,Slow AC,7.2,8.0,Urban
+CS_569,Chennai,Maharashtra,Slow AC,120.0,,Urban
+CS_570,Mumbai,Delhi,Fast DC,120.0,,Urban
+CS_571,Pune,Maharashtra,Slow AC,30.0,35.0,Rural
+CS_572,Bengaluru,Maharashtra,Slow AC,7.2,28.0,Urban
+CS_573,Delhi,Tamil Nadu,Fast DC,15.0,33.0,Urban
+CS_574,Delhi,Telangana,Slow AC,50.0,,Rural
+CS_575,Ahmedabad,Maharashtra,Fast DC,120.0,27.0,Rural
+CS_576,Delhi,Gujarat,Fast DC,30.0,38.0,Rural
+CS_577,Ahmedabad,Telangana,Slow AC,50.0,20.0,Urban
+CS_578,Mumbai,Tamil Nadu,Fast DC,50.0,,Urban
+CS_579,Pune,Tamil Nadu,Fast DC,7.2,,Urban
+CS_580,Mumbai,Tamil Nadu,Fast DC,120.0,,Rural
+CS_581,Delhi,Telangana,Slow AC,15.0,,Urban
+CS_582,Hyderabad,Tamil Nadu,Slow AC,15.0,38.0,Urban
+CS_583,Pune,Uttar Pradesh,Slow AC,3.3,,Urban
+CS_584,Hyderabad,Gujarat,Fast DC,3.3,11.0,Rural
+CS_585,Bengaluru,Tamil Nadu,Slow AC,30.0,36.0,Urban
+CS_586,Delhi,Karnataka,Slow AC,7.2,,Urban
+CS_587,Bengaluru,Uttar Pradesh,Fast DC,3.3,35.0,Urban
+CS_588,Mumbai,Karnataka,Slow AC,15.0,22.0,Rural
+CS_589,Ahmedabad,Maharashtra,Fast DC,7.2,24.0,Urban
+CS_590,Bengaluru,Uttar Pradesh,Slow AC,50.0,,Urban
+CS_591,Delhi,Telangana,Slow AC,120.0,36.0,Urban
+CS_592,Hyderabad,Telangana,Fast DC,3.3,24.0,Urban
+CS_593,Pune,Telangana,Fast DC,7.2,,Urban
+CS_594,Delhi,Maharashtra,Slow AC,3.3,,Urban
+CS_595,Bengaluru,Telangana,Slow AC,50.0,,Rural
+CS_596,Mumbai,Delhi,Slow AC,30.0,,Urban
+CS_597,Hyderabad,Gujarat,Slow AC,15.0,15.0,Rural
+CS_598,Pune,Uttar Pradesh,Fast DC,15.0,6.0,Urban
+CS_599,Delhi,Telangana,Fast DC,7.2,,Urban
+CS_600,Ahmedabad,Tamil Nadu,Fast DC,120.0,5.0,Urban
