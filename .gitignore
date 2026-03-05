@@ -5,3 +5,9 @@ anaconda_projects
 .DS_Store
 .env.example
 .virtual_documents
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda
+anaconda_projects/
