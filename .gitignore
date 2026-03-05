@@ -4,3 +4,4 @@ anaconda_projects
 .venv
 .DS_Store
 .env.example
+.virtual_documents
